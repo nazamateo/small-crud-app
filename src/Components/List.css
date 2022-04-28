@@ -1,0 +1,15 @@
+.data-container {
+  height: 85vh;
+  width: 25vw;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  color: blue;
+}
+td {
+  border: 1px solid black;
+}
